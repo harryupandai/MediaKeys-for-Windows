@@ -75,3 +75,7 @@ Windows 10 or 11, 64-bit.
 ## Building from source
 
 MediaKeys is written in Go and uses only Go's standard library and Windows' built-in system files. See [BUILD.md](BUILD.md) for the one-line build command and what each file does.
+
+## About this project:
+
+MediaKeys was designed by Harrison McCarty and built with the help of Claude, an AI assistant by Anthropic.
